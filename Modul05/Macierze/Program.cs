@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Macierze //dsfsdfdsfds kos gdfgdf
+namespace Macierze //
 {
     class Program
     {
